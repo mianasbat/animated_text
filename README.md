@@ -9,5 +9,6 @@ To use it directly, run the following commands
 python -m virtualenv env_animation
 source env_animation/bin/activate
 pip install -rrequirements.txt
-python app.py
+python ./src/app.py
 ```
+Press q to quit.
