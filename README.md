@@ -1,0 +1,12 @@
+# Example program to dockerize
+
+This is a small python program that is using asciimatics package to animate the text.
+
+To use it directly, run the following commands
+
+```
+python -m virtualenv env_animation
+source env_animation/bin/activate
+pip install -rrequirements.txt
+python app.py
+```
