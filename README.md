@@ -11,4 +11,4 @@ source env_animation/bin/activate
 pip install -rrequirements.txt
 python ./src/app.py
 ```
-Press q to quit.
+Press q to quit the animation.
